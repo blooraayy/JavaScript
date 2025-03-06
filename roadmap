@@ -1,0 +1,77 @@
+🛤 Roadmap para Aprender JavaScript (Desde Cero hasta Avanzado)
+🔹 Fase 1: Fundamentos de JavaScript (1-2 meses)
+📌 Objetivo: Entender la sintaxis básica, tipos de datos, estructuras de control y funciones.
+🔥 Temas Claves:
+✅ Qué es JavaScript y cómo funciona en el navegador
+✅ Variables (var, let, const)
+✅ Tipos de datos (strings, numbers, booleans, null, undefined, symbols)
+✅ Operadores (aritméticos, lógicos, comparación)
+✅ Condicionales (if, else, switch)
+✅ Bucles (for, while, do while)
+✅ Funciones (function, arrow functions)
+✅ Ámbito (scope) y Hoisting
+✅ Manipulación del DOM (document.querySelector, getElementById, etc.)
+
+🛠 Recursos:
+JavaScript.info (Guía Completa)
+Curso en FreeCodeCamp (Estructuras básicas)
+MDN Web Docs - Introducción a JS
+🎯 Proyectos Sencillos:
+Un contador con botones (+/-).
+Un reloj digital que se actualiza en tiempo real.
+Una calculadora básica con prompt y alert.
+🔹 Fase 2: Programación Orientada a Objetos y Manipulación del DOM (1-2 meses)
+📌 Objetivo: Aprender cómo interactuar con el HTML y crear dinámicamente elementos.
+🔥 Temas Claves:
+✅ Objetos y Arrays
+✅ Métodos de Arrays (map, filter, reduce)
+✅ Manipulación del DOM (createElement, appendChild, removeChild)
+✅ Eventos (addEventListener, click, keydown)
+✅ JSON y almacenamiento local (localStorage, sessionStorage)
+✅ Introducción a Fetch API (fetch(), async/await)
+
+🛠 Recursos:
+MDN - Trabajar con el DOM
+Curso en YouTube de Fazt
+🎯 Proyectos:
+Un To-Do List con localStorage.
+Un reproductor de audio con controles básicos.
+Una galería de imágenes con botones de navegación.
+🔹 Fase 3: JavaScript Moderno + APIs + Web Apps (2-3 meses)
+📌 Objetivo: Usar ES6+, Promesas, asincronía y consumo de APIs.
+🔥 Temas Claves:
+✅ ES6+: Destructuración, spread/rest operator
+✅ setTimeout y setInterval
+✅ Promesas y async/await
+✅ Consumo de APIs REST con Fetch
+✅ Módulos (import/export)
+✅ Error Handling (try/catch)
+✅ Introducción a Webpack
+
+🛠 Recursos:
+Curso de JavaScript Moderno en JavaScript.info
+Curso de Asincronía en Midudev
+🎯 Proyectos:
+Un buscador de películas con la API de OMDB.
+Una app del clima que usa OpenWeather API.
+Un chat en tiempo real usando Firebase.
+🔹 Fase 4: JavaScript Avanzado + Frameworks (React, Node.js) (3-6 meses)
+📌 Objetivo: Convertirte en un desarrollador JavaScript Full Stack.
+🔥 Temas Claves:
+✅ Patrones de diseño en JS
+✅ Closures y Programación Funcional
+✅ Manipulación del DOM de forma avanzada
+✅ Introducción a TypeScript
+✅ Introducción a Node.js (Express, REST APIs)
+✅ Frameworks Frontend: React, Vue o Angular
+✅ WebSockets y tiempo real
+✅ Seguridad en JavaScript
+
+🛠 Recursos:
+Curso de React en Scrimba
+Curso de Node.js en FreeCodeCamp
+Documentación Oficial de React
+🎯 Proyectos:
+Un dashboard de estadísticas con gráficos interactivos.
+Un clon de Trello con drag & drop.
+Un chat en tiempo real con WebSockets.
