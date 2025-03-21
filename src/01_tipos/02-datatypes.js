@@ -3,24 +3,25 @@ let name = "Jaime"; // comillas dobles
 let alias = 'BlooRay' // comillas simples
 let email = `jaime.alv.fdez@gmail.com` // comillas invertidas
 
-// Number (número)
+// Number (número, enteros y decimales)
 let age = 19; // número entero
 let height = 1.82; // número decimal
 
-// Boolean (verdadero o falso)
-let isAlive = true; // verdadero
-let isDead = false; // falso
+// BigInt (número entero grande)
+let bignumber = 123456789123456789n;
 
-// Undefined (indefinido)
+// Boolean (verdadero o falso)
+let isTrue = true; // verdadero
+let isFalse = false; // falso
+
+// Undefined (Variable declarada pero sin valor asignado)
 let x; // variable sin valor asignado
 console.log(x); // undefined
 
-// Null (nulo)
+// Null (Valor intencionalmente vacío)
 let y = null; // valor nulo
 console.log(y); // null
 
-// Symbol (símbolo)
+// Symbol (Identificadores únicos)
 let sym = Symbol('mySymbol') // símbolo
 console.log(sym);
-
-// BigInt (número entero grande)
